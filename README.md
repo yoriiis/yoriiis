@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👋 Hello. I am Joris Daniel
+
+I am a front-end engineer @PrismaMedia working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on open source projects and Freelance.
+
+## ☕ Get in touch?
+
+* Twitter: [twitter.com/_yoriiis](https://twitter.com/_yoriiis)
+* Personal site: [yoriiis.github.io](https://yoriiis.github.io)
+
+Plant enthusiast 🌱
 
 <!--
 **yoriiis/yoriiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
