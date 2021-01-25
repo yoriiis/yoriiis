@@ -1,6 +1,6 @@
 # 👋 Hello. I am Joris Daniel
 
-I am a senior front-end engineer @PrismaMedia working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on open source projects and Freelance.
+I am a Tech Lead @PrismaMedia working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on open source projects and Freelance.
 
 ## ☕ Get in touch?
 
