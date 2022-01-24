@@ -7,6 +7,7 @@ I am a Tech Lead [@prismamedia](https://github.com/prismamedia) working on [Tél
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=radical&locale=en&layout=compact" alt="Most used languages" />
   </a>
 </p>
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=yoriiis&show_icons=true&theme=radical&locale=en">
     <img src="https://github-readme-stats.vercel.app/api?username=yoriiis&show_icons=true&theme=radical&locale=en" alt="GitHub stats" />
