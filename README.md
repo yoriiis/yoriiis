@@ -1,6 +1,17 @@
 # 👋 Hello. I am Joris Daniel
 
-I am a Tech Lead @PrismaMedia working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on open source projects and Freelance.
+I am a Tech Lead [@prismamedia](https://github.com/prismamedia) working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on Open Source projects and Freelance.<br /><br />
+
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=radical&locale=en&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=radical&locale=en&layout=compact" alt="Most used languages" />
+  </a>
+</p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=yoriiis&show_icons=true&theme=radical&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=yoriiis&show_icons=true&theme=radical&locale=en" alt="GitHub stats" />
+  </a>
+</p>
 
 ## ☕ Get in touch?
 
@@ -8,18 +19,3 @@ I am a Tech Lead @PrismaMedia working on [Télé-Loisirs](https://www.programme-
 * Personal site: [yoriiis.github.io](https://yoriiis.github.io)
 
 Plant enthusiast 🌱
-
-<!--
-**yoriiis/yoriiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
