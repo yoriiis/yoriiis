@@ -4,7 +4,7 @@ I am a Tech Lead [@prismamedia](https://github.com/prismamedia) working on [Tél
 
 <p>
   <a href="https://github-readme-stats-yoriiis.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=bear&locale=en&layout=compact">
-    <img src="https://github-readme-stats-yoriiis.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=bear&locale=en&layout=compact" alt="Most used languages" />
+    <img src="https://github-readme-stats-yoriiis.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=bear&locale=en&layout=compact&langs_count=5" alt="Most used languages" />
   </a>
 </p>
 
