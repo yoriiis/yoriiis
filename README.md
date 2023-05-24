@@ -10,7 +10,7 @@ I am a Tech Lead [@prismamedia](https://github.com/prismamedia) working on [Tél
 
 <p>
   <a href="https://github-readme-stats-yoriiis.vercel.app/api?username=yoriiis&show_icons=true&theme=bear&locale=en">
-    <img src="https://github-readme-stats-yoriiis.vercel.app/api?username=yoriiis&show_icons=true&theme=bear&locale=en" alt="GitHub stats" />
+    <img src="https://github-readme-stats-yoriiis.vercel.app/api?username=yoriiis&show_icons=true&theme=bear&locale=en&count_private=true" alt="GitHub stats" />
   </a>
 </p>
 
