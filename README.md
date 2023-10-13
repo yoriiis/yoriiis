@@ -1,4 +1,4 @@
-# 👋 Hello. I am Joris Daniel
+# 👋 Hello. I am Yoriiis
 
 I am a Tech Lead [@prismamedia](https://github.com/prismamedia) working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on Open Source projects and Freelance.<br /><br />
 
