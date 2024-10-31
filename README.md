@@ -1,6 +1,6 @@
 # 👋 Hello. I am Yoriiis
 
-I am a Front-end engineer architect [@prismamedia](https://github.com/prismamedia) working on [Télé-Loisirs](https://www.programme-tv.net). Passionate about code, web performance, UX and design, I use my free time on Open Source projects and Freelance.<br /><br />
+I am a Front-end engineer architect [@prismamedia](https://github.com/prismamedia). Passionate about code, web performance, UX and design, I use my free time on Open Source projects and Freelance.<br /><br />
 
 <p>
   <a href="https://github-readme-stats-yoriiis.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=bear&locale=en&layout=compact">
