@@ -18,7 +18,7 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 let yoriiis = {
   code: ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'DevOps'],
   interests: ['Climbing', 'Biking', 'Skiing'', 'Music', 'Plants'],
-  career: ['Front-end architect', 'Open source developer', 'Tech explorer'],
+  career: ['Front-end architect', 'Open source developer'],
   motto: 'Crafting scalable systems and open source projects'
 } // let, because I'm always growing — just like my plant collection 🌿
 ```
