@@ -10,5 +10,15 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 
 <p>
   <img src="https://github-readme-stats-yoriiis.vercel.app/api?username=yoriiis&show_icons=true&theme=github_dark&locale=en&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img align='right' src="https://github.com/yoriiis/yoriiis/blob/main/octocat.png" width="350">
 </p>
+
+<img align='right' src="https://github.com/yoriiis/yoriiis/blob/main/octocat.png" width="250">
+
+```javascript
+let yoriiis = {
+  code: ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'DevOps'],
+  interests: ['Climbing', 'Biking', 'Skiing', 'Motorcycling', 'Music', 'Plants 🌱'],
+  career: ['Front-end architect', 'Open source developer', 'Tech explorer'],
+  motto: 'Crafting scalable systems and open source projects'
+} // let, because I'm always growing — just like my plant collection 🌿
+```
