@@ -5,7 +5,8 @@ Front-end Architect [@prismamedia](https://github.com/prismamedia), passionate a
 In my free time, I craft open source tools, explore new front-end paradigms, and work as a freelancer on meaningful web projects.
 
 > [!TIP]
-> If you appreciate my work and want to support the development of open-source tools like [Figma CSS Variables](https://github.com/sponsors/figma-css-variables), [vLitejs](https://github.com/sponsors/vlitejs), [Costro](https://github.com/sponsors/costrojs), or my personal projects, consider [sponsoring me](https://github.com/sponsors/yoriiis). Your support makes a big difference! 🙏
+> I maintain open-source tools like [Figma CSS Variables](https://www.figma.com/community/plugin/1474166340745390696/figma-css-variables), [vLitejs](https://vlite.js.org), [Costro](https://costro.js.org), and many others under my GitHub profile and organizations.  
+> If you want to support this ecosystem of fast, scalable, and well-documented tools, [sponsor me here](https://github.com/sponsors/yoriiis). Your support makes a real difference. 🙏
 
 #### GitHub stats
 
