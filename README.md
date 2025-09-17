@@ -12,9 +12,10 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 
 I occasionally share insights on front-end architecture, performance, and modern web development:
 
-- [Granular chunks and JavaScript modules for faster page loads \[DEV.to\]](https://dev.to/yoriiis/granular-chunks-and-javascript-modules-for-faster-page-loads-4pd9)
-- [Rebuilding our front-end tech stack for the new teleloisirs.fr \[DEV.to\]](https://dev.to/yoriiis/rebuilding-our-front-end-tech-stack-for-the-new-teleloisirs-fr-442m)
-- [The real power of Webpack 4 SplitChunks Plugin \[Medium\]](https://medium.com/prisma-media/the-real-power-of-webpack-4-splitchunks-plugin-fad097c45ba0)
+- [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3) - Sep 15, 2025
+- [Granular chunks and JavaScript modules for faster page loads](https://dev.to/yoriiis/granular-chunks-and-javascript-modules-for-faster-page-loads-4pd9) - May 10, 2020
+- [Rebuilding our front-end tech stack for the new teleloisirs.fr](https://dev.to/yoriiis/rebuilding-our-front-end-tech-stack-for-the-new-teleloisirs-fr-442m) - Oct 3, 2020
+- [The real power of Webpack 4 SplitChunks Plugin](https://medium.com/prisma-media/the-real-power-of-webpack-4-splitchunks-plugin-fad097c45ba0) - Aug 1, 2019
 
 #### GitHub stats
 
