@@ -12,6 +12,7 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 
 I occasionally share insights on front-end architecture, performance, and modern web development:
 
+- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik) - Sep 29, 2025
 - [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3) - Sep 15, 2025
 - [Granular chunks and JavaScript modules for faster page loads](https://dev.to/yoriiis/granular-chunks-and-javascript-modules-for-faster-page-loads-4pd9) - May 10, 2020
 - [Rebuilding our front-end tech stack for the new teleloisirs.fr](https://dev.to/yoriiis/rebuilding-our-front-end-tech-stack-for-the-new-teleloisirs-fr-442m) - Oct 3, 2020
