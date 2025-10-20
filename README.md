@@ -12,6 +12,7 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 
 I occasionally share insights on front-end architecture, performance, and modern web development:
 
+- [Scaling GitLab CI/CD with reusable templates](https://dev.to/yoriiis/scaling-gitlab-cicd-with-reusable-templates-5ho0) - Oct 15, 2025
 - [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik) - Sep 29, 2025
 - [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3) - Sep 15, 2025
 - [Automating merge request reviews with Danger on GitLab](https://dev.to/yoriiis/automating-merge-request-reviews-with-danger-on-gitlab-39k1) - Aug 03, 2025
