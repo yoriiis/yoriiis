@@ -12,6 +12,7 @@ In my free time, I craft open source tools, explore new front-end paradigms, and
 
 I occasionally share insights on front-end architecture, performance, and modern web development:
 
+- [Front-end insights Series](https://dev.to/yoriiis/series/33885)
 - [How we test NPM packages before publishing with npm pack](https://dev.to/yoriiis/how-we-test-npm-packages-before-publishing-with-npm-pack-57bo) - Oct 26, 2025
 - [Scaling GitLab CI/CD with reusable templates](https://dev.to/yoriiis/scaling-gitlab-cicd-with-reusable-templates-5ho0) - Oct 15, 2025
 - [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik) - Sep 29, 2025
