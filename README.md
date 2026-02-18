@@ -40,12 +40,14 @@ I occasionally share insights on front-end architecture, performance, and toolin
 
 Read my latest series on Dev.to: [Front-end insights Series](https://dev.to/yoriiis/series/33885)
 
+<!--
 #### GitHub stats
 
 | <a href="https://github.com/yoriiis/github-readme-stats"><img src="https://github-readme-stats-yoriiis.vercel.app/api?username=yoriiis&show_icons=true&theme=github_dark&locale=en&count_private=true&rank_icon=github" alt="GitHub stats" /></a> | <a href="https://github.com/yoriiis/github-readme-stats"><img src="https://github-readme-stats-yoriiis.vercel.app/api/top-langs?username=yoriiis&show_icons=false&theme=github_dark&locale=en&layout=compact&langs_count=5" alt="Most used languages" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+-->
 
-#### Overview
+### Overview
 
 <img align='right' src="https://github.com/yoriiis/yoriiis/blob/main/octocat.png" width="250">
 
