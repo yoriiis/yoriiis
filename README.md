@@ -33,7 +33,7 @@ My open source projects are used by **millions of users every month** via npm, C
 let yoriiis = {
   code: ['JavaScript', 'TypeScript', 'Node.js', 'Python', 'DevOps', 'AI'],
   interests: ['Climbing', 'Biking', 'Skiing', 'Music', 'Plants'],
-  focus: ['Front-End Architecture', 'Design Systems', 'Tooling', 'Performance'],
+  focus: ['Front-End Architecture', 'Design Systems', 'Tooling', 'Perf'],
   motto: 'Crafting robust, lightweight, and maintainable systems'
 } // let, because I'm always growing — just like my plant collection 🌿
 ```
