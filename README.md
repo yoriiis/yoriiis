@@ -25,6 +25,10 @@ My open source projects are used by **millions of users every month** via npm, C
 - 🔍 [Before After](https://github.com/yoriiis/before-after) - Lightweight before/after image comparison
 - 🚀 [Tumblr Builder](https://github.com/yoriiis/tumblr-builder) - Build custom Tumblr experiences via API
 
+### 🔧 AI
+
+- 🤖 [AI Skills](https://github.com/yoriiis/ai-skills) - Automated Frontend Code Review skills for GitHub & GitLab
+
 ### 💻 Tech Stack & Interests
 
 <img align='right' src="https://github.com/yoriiis/yoriiis/blob/main/octocat.png" width="250">
