@@ -29,6 +29,15 @@ My open source projects are used by **millions of users every month** via npm, C
 
 - 🤖 [AI Skills](https://github.com/yoriiis/ai-skills) - Automated Frontend Code Review skills for GitHub & GitLab
 
+## ☕ Support my work
+
+If you use my tools in your projects, consider supporting my work:
+
+- GitHub Sponsors: https://github.com/sponsors/yoriiis
+- Ko-fi: https://ko-fi.com/yoriiis
+
+Your support helps me maintain and improve these projects.
+
 ### 💻 Tech Stack & Interests
 
 <img align='right' src="https://github.com/yoriiis/yoriiis/blob/main/octocat.png" width="250">
@@ -44,8 +53,5 @@ let yoriiis = {
 
 ### ✍️ Articles
 
-I occasionally share insights on front-end architecture, tooling, and performance:  
-[Front-end Insights Series on Dev.to](https://dev.to/yoriiis/series/33885)  
-
-> [!TIP]
-> If you find value in my projects, consider [sponsoring me here](https://github.com/sponsors/yoriiis). Your support makes a real difference. 🙏
+I occasionally share insights on front-end architecture, tooling, and performance:
+[Front-end Insights Series on Dev.to](https://dev.to/yoriiis/series/33885)
