@@ -8,7 +8,7 @@ My open source projects are used by **millions of users every month** via npm, C
 ### 🚀 Core Projects
 
 - 🎨 [Figma CSS Variables: Design Tokens Export & Deploy](https://www.figma.com/community/plugin/1474166340745390696) - Export Figma variables to 9 languages and deploy to Git
-- 🖌️ [Penpot: Design Tokens Export & Deploy](https://design.penpot.app/#?plugin=https://design-tokens-export-deploy.pages.dev/manifest.json) - Export Penpot tokens to 9 languages and deploy to Git
+- 🖌️ [Penpot: Design Tokens Export & Deploy](https://penpot.app/penpothub/plugins/design-tokens-export-and-deploy) - Export Penpot tokens to 9 languages and deploy to Git
 - 🧱 [Costro](https://github.com/costrojs/costro) - Build lightweight web applications with Components, Store, and Router in just 3KB
 - 🦋 [Vlitejs](https://github.com/vlitejs/vlite) - Minimalist and performant video & audio player, used by millions via CDN
 
